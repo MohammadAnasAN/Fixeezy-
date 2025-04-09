@@ -15,7 +15,7 @@ const Navbar = () => {
       <div className="flex items-center mx-10">
         <img onClick={() => navigate('/')} src={assets.logooo} alt="logo" className="w-12 h-12" />
         <span onClick={() => navigate('/')} className="ml-3 text-3xl  font-bold text-white tracking-wide text-shadow-md transform hover:scale-105 transition-all ease-in-out duration-300">
-          Fit & Fix
+        FixEezy 
         </span>
       </div>
 

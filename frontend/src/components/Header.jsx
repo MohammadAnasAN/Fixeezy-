@@ -24,7 +24,7 @@ const Header = () => {
                   
                     <img className="w-[6vw] h-auto  md:block hidden" src={assets.logooo} alt="Logo" />
                     <p className="text-[8vw] md:text-[5vw] lg:text-[6vw] text-white font-bold text-shadow-md ">
-                        Fit&Fix
+                    FixEezy 
                     </p>
                 </motion.div>
 
