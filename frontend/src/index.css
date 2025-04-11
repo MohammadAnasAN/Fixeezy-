@@ -33,7 +33,7 @@
       @apply absolute top-0 left-0 w-full h-full rounded-sm object-cover [transition:2s] sm:hover:-translate-y-[50px] hover:-translate-y-[20px] hover:scale-[1.3];
     }
   }
-
+/* NAVBAR */
 @media (max-width:740px){
     .active p{
         @apply text-white bg-primary
@@ -110,4 +110,4 @@
   animation-delay: 100ms;
 }
 
-/* header loading anim */
+
