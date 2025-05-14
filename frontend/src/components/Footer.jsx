@@ -19,7 +19,7 @@ const Footer = () => {
                                 onClick={() => navigate('/')} 
                                 className="text-3xl font-bold tracking-wide cursor-pointer hover:scale-105 transition-all duration-300"
                             >
-                                Fit & Fix
+                                Fixeezy
                             </span>
                         </div>
                         <p className="mt-4 text-gray-600 text-center md:text-left leading-6">

@@ -12,7 +12,7 @@ const workerSchema = new mongoose.Schema({
     },
     phone: {
         type: String,
-        required: true,
+       
     },
     password: {
         type: String,
@@ -44,7 +44,7 @@ const workerSchema = new mongoose.Schema({
     },
     available: {
         type: Boolean,
-        required: true,
+        default: true,
     },
     fees: {
         type: Number,
